@@ -98,7 +98,7 @@ Global Pharma Sales Intelligence Dashboard (Power BI)/
 ├── README.md                              
 │
 ├── data/                                  
-│   └── himalaya_sales_data.csv
+│   └── global_pharma_sales_data.csv
 │
 ├── dashboard_screenshots/                           
 │   ├── Executive Overview.png
