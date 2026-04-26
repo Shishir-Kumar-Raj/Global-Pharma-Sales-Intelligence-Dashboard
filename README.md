@@ -1,4 +1,4 @@
-#  Pharmaceutical Sales Dashboard (Power BI)
+#  Global Pharma Sales Intelligence Dashboard (Power BI)
 End-to-end Business Intelligence solution delivering actionable insights on global pharmaceutical sales, product performance, and inventory risk using advanced DAX and data modeling.
 
 ## Dashboard Preview
@@ -92,7 +92,7 @@ No centralized system to monitor sales, product performance, and inventory acros
 ## Project Structure
 
 ```
-himalaya-powerbi-dashboard/
+Global Pharma Sales Intelligence Dashboard (Power BI)/
 │
 ├── Himalaya_Pharma_Sales_Dashboard.pbix   
 ├── README.md                              
