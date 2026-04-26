@@ -9,7 +9,7 @@ A quick look at the interactive Power BI reports built for sales, product, regio
 
 ### Executive Overview
 
-Provides a high-level summary of KPIs including Total Sales, Profit, YoY Growth, and overall business performance.
+Provides a high-level summary of key business KPIs such as Total Sales, Profit, YoY Growth, and overall performance trends.
 
 ![Executive Overview](screenshots/01_executive.png)
 
