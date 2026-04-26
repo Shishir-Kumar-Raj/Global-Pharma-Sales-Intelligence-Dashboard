@@ -15,11 +15,11 @@ Provides a high-level summary of key business KPIs such as Total Sales, Profit, 
 
 ---
 
-### Sales Analysis
+### Regional sales performance
 
-Analyzes revenue trends over time with breakdowns by category, region, and time (monthly/yearly).
+Analyzes regional sales performance to identify high- and low-performing markets, enabling targeted growth strategies.
 
-![Sales Analysis](screenshots/02_sales.png)
+![Regional sales performance](screenshots/02_sales.png)
 
 ---
 
