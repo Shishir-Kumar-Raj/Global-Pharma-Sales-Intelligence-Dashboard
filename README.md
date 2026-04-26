@@ -109,7 +109,7 @@ Global Pharma Sales Intelligence Dashboard (Power BI)/
 │   └── Demographic Insights.png
 │ 
 ├── docs/ # Detailed documentation
-│   └── Himalaya_Pharma_Documentation.docx
+│   └── Global_Pharma_Sales_Dashboard_Documentation.pdf
 ```
 ## Star Schema
 This project uses a Star Schema data model with a central Fact table connected to multiple Dimension tables for optimized performance and scalability.
