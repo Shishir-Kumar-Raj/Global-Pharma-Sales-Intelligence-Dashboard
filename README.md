@@ -111,3 +111,5 @@ himalaya-powerbi-dashboard/
 ## Star Schema
 This project uses a Star Schema data model with a central Fact table connected to multiple Dimension tables for optimized performance and scalability.
 
+![Star Schema](https://github.com/Shishir-Kumar-Raj/himalaya-powerbi-dashboard/blob/08bbb15801ce261691f7c53a5790613693a9d2cc/dashboard_screenshots/Star%20Schema.png)
+
