@@ -1,2 +1,4 @@
 # 🌿 Himalaya Drug Company — Enterprise Power BI Analytics Solution
-Enterprise Power BI Dashboard for Pharma Sales Analysis (Himalaya)
+End-to-end Business Intelligence solution delivering actionable insights on global pharmaceutical sales, product performance, and inventory risk using advanced DAX and data modeling.
+
+
