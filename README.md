@@ -114,7 +114,7 @@ Global Pharma Sales Intelligence Dashboard (Power BI)/
 ## Star Schema
 This project uses a Star Schema data model with a central Fact table connected to multiple Dimension tables for optimized performance and scalability.
 
-![Star Schema]()
+![Star Schema](https://github.com/Shishir-Kumar-Raj/global-pharma-sales-dashboard/blob/774594c174fd4afb58d3217ab3608ec66cbd7680/dashboard_screenshots/Star%20Schema.png)
 
 ## Documentation
 
