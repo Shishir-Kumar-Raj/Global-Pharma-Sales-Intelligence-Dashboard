@@ -107,6 +107,8 @@ himalaya-powerbi-dashboard/
 │   ├── Inventory & Expiry Risk Monitoring.png
 │   ├── Covid impact analysis.png
 │   └── Demographic Insights.png
+├── docs/ # Detailed documentation
+│   └── Himalaya_Pharma_Documentation.docx
 ```
 ## Star Schema
 This project uses a Star Schema data model with a central Fact table connected to multiple Dimension tables for optimized performance and scalability.
