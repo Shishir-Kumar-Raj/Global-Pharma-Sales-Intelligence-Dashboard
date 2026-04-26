@@ -117,5 +117,5 @@ This project uses a Star Schema data model with a central Fact table connected t
 
 - 📘 [Project Summary (Quick Read)](docs/Project_Summary.md)  
 
-> Summary is recommended for quick understanding. Full document contains detailed architecture and implementation.
+> Summary is recommended for quick understanding. 
 
