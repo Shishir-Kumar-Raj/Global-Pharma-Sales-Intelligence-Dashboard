@@ -27,7 +27,7 @@ Analyzes regional sales performance to identify high- and low-performing markets
 
 Provides a country-level breakdown of sales performance, highlighting top-performing markets, revenue distribution, and growth trends across regions. Helps identify high-demand areas and opportunities for expansion.
 
-![Product Performance](https://github.com/Shishir-Kumar-Raj/himalaya-powerbi-dashboard/blob/ea986444dcd916dc18a7547372c81feb5b644bde/dashboard_screenshots/Country%20Analysis.png)
+![Country Analysis](https://github.com/Shishir-Kumar-Raj/himalaya-powerbi-dashboard/blob/ea986444dcd916dc18a7547372c81feb5b644bde/dashboard_screenshots/Country%20Analysis.png)
 
 ---
 
@@ -35,7 +35,7 @@ Provides a country-level breakdown of sales performance, highlighting top-perfor
 
 Monitors stock availability and product expiry to flag low inventory and near-expiry risks, enabling proactive supply chain decisions and minimizing losses.
 
-![Regional Insights](https://github.com/Shishir-Kumar-Raj/himalaya-powerbi-dashboard/blob/9789fc366b8251db8c1518fedaaea1f2aaa0f9d3/dashboard_screenshots/Invantory%20and%20risk%20Monitoring.png)
+![Inventory & Expiry Risk Monitoring](https://github.com/Shishir-Kumar-Raj/himalaya-powerbi-dashboard/blob/9789fc366b8251db8c1518fedaaea1f2aaa0f9d3/dashboard_screenshots/Invantory%20and%20risk%20Monitoring.png)
 
 ---
 
@@ -43,7 +43,7 @@ Monitors stock availability and product expiry to flag low inventory and near-ex
 
 COVID-19 led to a noticeable surge in demand for immunity-boosting products such as vitamins and herbal supplements, resulting in a temporary spike in sales during the pandemic period.
 
-![Inventory & Supply Chain]()
+![Covid impact analysis](https://github.com/Shishir-Kumar-Raj/himalaya-powerbi-dashboard/blob/be828ee8849c533fe586782c3410c66d5b30ef40/dashboard_screenshots/Covid%20impact%20Analysis.png)
 
 ---
 
@@ -51,4 +51,4 @@ COVID-19 led to a noticeable surge in demand for immunity-boosting products such
 
 Analyzes customer segments by age group and gender to identify key contributors to sales and understand purchasing patterns across different demographics.
 
-![Inventory & Supply Chain]()
+![Demographic Insights](https://github.com/Shishir-Kumar-Raj/himalaya-powerbi-dashboard/blob/be828ee8849c533fe586782c3410c66d5b30ef40/dashboard_screenshots/Demographic%20Insight.png)
