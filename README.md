@@ -107,6 +107,7 @@ himalaya-powerbi-dashboard/
 │   ├── Inventory & Expiry Risk Monitoring.png
 │   ├── Covid impact analysis.png
 │   └── Demographic Insights.png
+│ 
 ├── docs/ # Detailed documentation
 │   └── Himalaya_Pharma_Documentation.docx
 ```
