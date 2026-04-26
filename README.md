@@ -66,4 +66,14 @@ No centralized system to monitor sales, product performance, and inventory acros
 - 20+ DAX measures (YoY Growth, Market Share, Moving Avg)  
 - Star Schema data model  
 - Power Query ETL pipeline  
-- Interactive filters and drill-downs  
+- Interactive filters and drill-downs
+
+## Key Insights
+
+- Chronic care products contribute the largest share of total revenue, indicating strong recurring demand in long-term treatments  
+- South Asia leads in sales volume, while North America and Europe generate higher revenue per unit, highlighting pricing differences across regions  
+- COVID-19 period shows a noticeable spike in demand for immunity and vitamin-based products  
+- A small group of top-performing products contributes a significant percentage of total revenue (Pareto effect)  
+- Certain regions show consistent low stock levels, indicating potential supply chain inefficiencies and risk of stockouts  
+- Products nearing expiry with unsold inventory highlight the need for better demand forecasting and inventory planning  
+- The age group 26–45 contributes the highest share of total sales, making it the primary target customer segment  
