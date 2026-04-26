@@ -113,3 +113,9 @@ This project uses a Star Schema data model with a central Fact table connected t
 
 ![Star Schema](https://github.com/Shishir-Kumar-Raj/himalaya-powerbi-dashboard/blob/08bbb15801ce261691f7c53a5790613693a9d2cc/dashboard_screenshots/Star%20Schema.png)
 
+## 📄 Documentation
+
+- 📘 [Project Summary (Quick Read)](docs/Project_Summary.md)  
+
+> Summary is recommended for quick understanding. Full document contains detailed architecture and implementation.
+
