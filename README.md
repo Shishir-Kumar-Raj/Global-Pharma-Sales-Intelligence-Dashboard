@@ -31,11 +31,11 @@ Provides a country-level breakdown of sales performance, highlighting top-perfor
 
 ---
 
-### Regional Insights
+### Inventory & Expiry Risk Monitoring
 
-Shows geographical distribution of sales and identifies high- and low-performing regions.
+Monitors stock availability and product expiry to flag low inventory and near-expiry risks, enabling proactive supply chain decisions and minimizing losses.
 
-![Regional Insights](screenshots/04_region.png)
+![Regional Insights]()
 
 ---
 
