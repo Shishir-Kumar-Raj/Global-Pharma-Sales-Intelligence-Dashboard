@@ -60,3 +60,10 @@ It enables stakeholders to monitor revenue trends, identify top-performing produ
 
 ## Problem
 No centralized system to monitor sales, product performance, and inventory across regions.
+
+## Key Features
+- 5 interactive dashboard pages  
+- 20+ DAX measures (YoY Growth, Market Share, Moving Avg)  
+- Star Schema data model  
+- Power Query ETL pipeline  
+- Interactive filters and drill-downs  
