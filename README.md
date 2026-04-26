@@ -108,7 +108,7 @@ Global Pharma Sales Intelligence Dashboard (Power BI)/
 │   ├── Covid impact analysis.png
 │   └── Demographic Insights.png
 │ 
-├── docs/ # Detailed documentation
+├── docs/ 
 │   └── Global_Pharma_Sales_Dashboard_Documentation.pdf
 ```
 ## Star Schema
