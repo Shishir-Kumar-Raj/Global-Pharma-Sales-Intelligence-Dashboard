@@ -100,11 +100,12 @@ himalaya-powerbi-dashboard/
 ├── data/                                  
 │   └── himalaya_sales_data.csv
 │
-├── screenshots/                           
-│   ├── 01_executive.png
-│   ├── 02_sales.png
-│   ├── 03_product.png
-│   ├── 04_region.png
-│   └── 05_inventory.png
+├── dashboard_screenshots/                           
+│   ├── Executive Overview.png
+│   ├── Regional Sales Performance.png
+│   ├── Country Analysis.png
+│   ├── Inventory & Expiry Risk Monitoring.png
+│   ├── Covid impact analysis.png
+│   └── Demographic Insights.png
 ```
 
