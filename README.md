@@ -39,9 +39,16 @@ Monitors stock availability and product expiry to flag low inventory and near-ex
 
 ---
 
-### Inventory & Supply Chain
+### Covid impact analysis
 
-Tracks stock levels, identifies low inventory risks, and monitors near-expiry products.
+COVID-19 led to a noticeable surge in demand for immunity-boosting products such as vitamins and herbal supplements, resulting in a temporary spike in sales during the pandemic period.
 
-![Inventory & Supply Chain](screenshots/05_inventory.png)
+![Inventory & Supply Chain]()
 
+---
+
+### Demographic Insights
+
+Analyzes customer segments by age group and gender to identify key contributors to sales and understand purchasing patterns across different demographics.
+
+![Inventory & Supply Chain]()
