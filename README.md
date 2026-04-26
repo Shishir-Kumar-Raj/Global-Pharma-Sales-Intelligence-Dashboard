@@ -118,7 +118,7 @@ This project uses a Star Schema data model with a central Fact table connected t
 
 ## Documentation
 
--  [Project Summary (Quick Read)]()  
+-  [Project Summary (Quick Read)](https://github.com/Shishir-Kumar-Raj/Global-Pharma-Sales-Intelligence-Dashboard/blob/d9c42386303346db084b6cd0fd45d92e340541c2/Document/Global_Pharma_Sales_Dashboard_Documentation.pdf)  
 
 > Summary is recommended for quick understanding.
 
