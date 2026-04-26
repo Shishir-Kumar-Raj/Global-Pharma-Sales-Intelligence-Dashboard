@@ -52,3 +52,8 @@ COVID-19 led to a noticeable surge in demand for immunity-boosting products such
 Analyzes customer segments by age group and gender to identify key contributors to sales and understand purchasing patterns across different demographics.
 
 ![Demographic Insights](https://github.com/Shishir-Kumar-Raj/himalaya-powerbi-dashboard/blob/be828ee8849c533fe586782c3410c66d5b30ef40/dashboard_screenshots/Demographic%20Insight.png)
+
+## Project Overview
+This project delivers an enterprise-style Power BI dashboard for Himalaya to analyze pharmaceutical sales, product performance, and inventory risk across global markets.  
+
+It enables stakeholders to monitor revenue trends, identify top-performing products and regions, and make data-driven decisions through interactive visual analytics.
