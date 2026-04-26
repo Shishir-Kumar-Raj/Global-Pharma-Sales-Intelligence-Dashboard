@@ -11,7 +11,7 @@ A quick look at the interactive Power BI reports built for sales, product, regio
 
 Provides a high-level summary of key business KPIs such as Total Sales, Profit, YoY Growth, and overall performance trends.
 
-![Executive Overview](dashboard_screenshots/Executive Overview.png)
+![Executive Overview]([dashboard_screenshots/Executive Overview.png](https://github.com/Shishir-Kumar-Raj/himalaya-powerbi-dashboard/blob/e78f726a3ede52b3744af4000e0cc780919add63/dashboard_screenshots/Executive%20Overview.png))
 
 ---
 
