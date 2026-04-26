@@ -57,3 +57,6 @@ Analyzes customer segments by age group and gender to identify key contributors 
 This project delivers an enterprise-style Power BI dashboard for Himalaya to analyze pharmaceutical sales, product performance, and inventory risk across global markets.  
 
 It enables stakeholders to monitor revenue trends, identify top-performing products and regions, and make data-driven decisions through interactive visual analytics.
+
+## Problem
+No centralized system to monitor sales, product performance, and inventory across regions.
