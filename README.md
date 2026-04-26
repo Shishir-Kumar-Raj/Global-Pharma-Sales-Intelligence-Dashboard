@@ -23,11 +23,11 @@ Analyzes regional sales performance to identify high- and low-performing markets
 
 ---
 
-### Product Performance
+### Country Analysis
 
-Highlights top-performing products, category-wise contribution, and profitability insights.
+Provides a country-level breakdown of sales performance, highlighting top-performing markets, revenue distribution, and growth trends across regions. Helps identify high-demand areas and opportunities for expansion.
 
-![Product Performance](screenshots/03_product.png)
+![Product Performance](https://github.com/Shishir-Kumar-Raj/himalaya-powerbi-dashboard/blob/ea986444dcd916dc18a7547372c81feb5b644bde/dashboard_screenshots/Country%20Analysis.png)
 
 ---
 
