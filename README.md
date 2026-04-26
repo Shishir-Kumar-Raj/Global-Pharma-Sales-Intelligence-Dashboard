@@ -76,4 +76,15 @@ No centralized system to monitor sales, product performance, and inventory acros
 - A small group of top-performing products contributes a significant percentage of total revenue (Pareto effect)  
 - Certain regions show consistent low stock levels, indicating potential supply chain inefficiencies and risk of stockouts  
 - Products nearing expiry with unsold inventory highlight the need for better demand forecasting and inventory planning  
-- The age group 26–45 contributes the highest share of total sales, making it the primary target customer segment  
+- The age group 26–45 contributes the highest share of total sales, making it the primary target customer segment
+
+## Tech Stack
+
+| Category        | Tools / Technologies |
+|----------------|---------------------|
+| BI Tool        | Power BI Desktop |
+| Data Modeling  | Star Schema |
+| Data Processing| Power Query (M) |
+| Calculations   | DAX |
+| Data Source    | CSV |
+| Optional       | SQL |
