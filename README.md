@@ -35,7 +35,7 @@ Provides a country-level breakdown of sales performance, highlighting top-perfor
 
 Monitors stock availability and product expiry to flag low inventory and near-expiry risks, enabling proactive supply chain decisions and minimizing losses.
 
-![Regional Insights]()
+![Regional Insights](https://github.com/Shishir-Kumar-Raj/himalaya-powerbi-dashboard/blob/9789fc366b8251db8c1518fedaaea1f2aaa0f9d3/dashboard_screenshots/Invantory%20and%20risk%20Monitoring.png)
 
 ---
 
