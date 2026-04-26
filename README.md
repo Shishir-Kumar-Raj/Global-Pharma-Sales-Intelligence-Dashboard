@@ -11,7 +11,7 @@ A quick look at the interactive Power BI reports built for sales, product, regio
 
 Provides a high-level summary of key business KPIs such as Total Sales, Profit, YoY Growth, and overall performance trends.
 
-![Executive Overview]()
+![Executive Overview](https://github.com/Shishir-Kumar-Raj/global-pharma-sales-dashboard/blob/5300d5d8c627ef91150f60bf1a9816189bab092c/dashboard_screenshots/Executive%20Overview.png)
 
 ---
 
@@ -19,7 +19,7 @@ Provides a high-level summary of key business KPIs such as Total Sales, Profit, 
 
 Analyzes regional sales performance to identify high- and low-performing markets, enabling targeted growth strategies.
 
-![Regional sales performance]()
+![Regional sales performance](https://github.com/Shishir-Kumar-Raj/global-pharma-sales-dashboard/blob/5300d5d8c627ef91150f60bf1a9816189bab092c/dashboard_screenshots/Regional%20Sales%20Performance.png)
 
 ---
 
@@ -27,7 +27,7 @@ Analyzes regional sales performance to identify high- and low-performing markets
 
 Provides a country-level breakdown of sales performance, highlighting top-performing markets, revenue distribution, and growth trends across regions. Helps identify high-demand areas and opportunities for expansion.
 
-![Country Analysis]()
+![Country Analysis](https://github.com/Shishir-Kumar-Raj/global-pharma-sales-dashboard/blob/5300d5d8c627ef91150f60bf1a9816189bab092c/dashboard_screenshots/Country%20Analysis.png)
 
 ---
 
@@ -35,7 +35,7 @@ Provides a country-level breakdown of sales performance, highlighting top-perfor
 
 Monitors stock availability and product expiry to flag low inventory and near-expiry risks, enabling proactive supply chain decisions and minimizing losses.
 
-![Inventory & Expiry Risk Monitoring]()
+![Inventory & Expiry Risk Monitoring](https://github.com/Shishir-Kumar-Raj/global-pharma-sales-dashboard/blob/5300d5d8c627ef91150f60bf1a9816189bab092c/dashboard_screenshots/Invantory%20and%20risk%20Monitoring.png)
 
 ---
 
@@ -43,7 +43,7 @@ Monitors stock availability and product expiry to flag low inventory and near-ex
 
 COVID-19 led to a noticeable surge in demand for immunity-boosting products such as vitamins and herbal supplements, resulting in a temporary spike in sales during the pandemic period.
 
-![Covid impact analysis]()
+![Covid impact analysis](https://github.com/Shishir-Kumar-Raj/global-pharma-sales-dashboard/blob/5300d5d8c627ef91150f60bf1a9816189bab092c/dashboard_screenshots/Covid%20impact%20Analysis.png)
 
 ---
 
@@ -51,7 +51,7 @@ COVID-19 led to a noticeable surge in demand for immunity-boosting products such
 
 Analyzes customer segments by age group and gender to identify key contributors to sales and understand purchasing patterns across different demographics.
 
-![Demographic Insights]()
+![Demographic Insights](https://github.com/Shishir-Kumar-Raj/global-pharma-sales-dashboard/blob/5300d5d8c627ef91150f60bf1a9816189bab092c/dashboard_screenshots/Demographic%20Insight.png)
 
 ## Project Overview
 This project delivers an enterprise-style Power BI dashboard for Himalaya to analyze pharmaceutical sales, product performance, and inventory risk across global markets.  
