@@ -19,7 +19,7 @@ Provides a high-level summary of key business KPIs such as Total Sales, Profit, 
 
 Analyzes regional sales performance to identify high- and low-performing markets, enabling targeted growth strategies.
 
-![Regional sales performance]([screenshots/02_sales.png](https://github.com/Shishir-Kumar-Raj/himalaya-powerbi-dashboard/blob/299b2e54b0859a66439cecfbec62e6719f3755fc/dashboard_screenshots/Regional%20Sales%20Performance.png))
+![Regional sales performance](https://github.com/Shishir-Kumar-Raj/himalaya-powerbi-dashboard/blob/299b2e54b0859a66439cecfbec62e6719f3755fc/dashboard_screenshots/Regional%20Sales%20Performance.png)
 
 ---
 
