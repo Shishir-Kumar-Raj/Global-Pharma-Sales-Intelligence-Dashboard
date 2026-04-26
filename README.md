@@ -94,7 +94,7 @@ No centralized system to monitor sales, product performance, and inventory acros
 ```
 Global Pharma Sales Intelligence Dashboard (Power BI)/
 │
-├── Himalaya_Pharma_Sales_Dashboard.pbix   
+├── Global_Pharma_Sales_Dashboard.pbix   
 ├── README.md                              
 │
 ├── data/                                  
