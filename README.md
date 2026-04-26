@@ -88,3 +88,26 @@ No centralized system to monitor sales, product performance, and inventory acros
 | Calculations   | DAX |
 | Data Source    | CSV |
 | Optional       | SQL |
+
+## Project Structure
+
+```
+himalaya-powerbi-dashboard/
+│
+├── Himalaya_Pharma_Sales_Dashboard.pbix   # Main Power BI dashboard file
+├── README.md                              # Project overview and documentation
+│
+├── data/                                  # Dataset used in the project
+│   └── himalaya_sales_data.csv
+│
+├── screenshots/                           # Dashboard preview images
+│   ├── 01_executive.png
+│   ├── 02_sales.png
+│   ├── 03_product.png
+│   ├── 04_region.png
+│   └── 05_inventory.png
+│
+├── docs/                                  # Detailed documentation (optional)
+│   └── Himalaya_Pharma_Documentation.docx
+```
+
